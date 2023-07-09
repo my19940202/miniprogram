@@ -11,8 +11,10 @@
     "navigationBarTitleText": "依林小家",
     "navigationBarTextStyle": "black"
   },
+  "usingComponents": {
+    "t-button": "tdesign-miniprogram/button/button"
+  },
   "sitemapLocation": "sitemap.json",
-  "style": "v2",
   "tabBar": {
     "list": [{
       "pagePath": "pages/index/index",

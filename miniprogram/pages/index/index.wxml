@@ -1,6 +1,0 @@
-<!--index.wxml-->
-<view class="container">
-  <view class="title">图片轮播区域</view>
-  <view class="title">时间轴区域</view>
-  <view class="title">今天是谈恋爱的第N天</view>
-</view>

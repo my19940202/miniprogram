@@ -1,0 +1,4 @@
+<!--test.wxml-->
+<view class="container">
+  <view class="title">测试功能页面</view>
+</view>

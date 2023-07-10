@@ -1,8 +1,8 @@
 {
-  "usingComponents": {
-    "cloud-tip-modal": "/components/cloudTipModal/index"
-  },
-  "enablePullDownRefresh": true,
-  "navigationBarBackgroundColor": "#11ff00",
-  "backgroundTextStyle": "dark"
+    "usingComponents": {
+        "t-link": "tdesign-miniprogram/link/link"
+    },
+    "enablePullDownRefresh": true,
+    "navigationBarBackgroundColor": "#11ff00",
+    "backgroundTextStyle": "dark"
 }

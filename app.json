@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/test/index",
-    "pages/about/index"
+    "pages/about/index",
+    "pages/form/index"
   ],
   "window": {
     "backgroundColor": "#F6F6F6",

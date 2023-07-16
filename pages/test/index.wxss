@@ -6,6 +6,15 @@ page {
   padding-bottom: 60rpx;
 }
 .title {
-  font-size: larger ;
+  font-size: larger;
+  width: 100%;
   color: black;
+}
+.content {
+    width: 100%;
+    text-align: left;
+}
+.content .test-item {
+    display: block;
+    padding-top: 20rpx;
 }

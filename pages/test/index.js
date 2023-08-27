@@ -21,7 +21,7 @@ Page({
                 console.log(res.result)
             },
             fail: console.error
-          })
+        })
     },
     jumpTo(event) {
         wx.navigateTo({
